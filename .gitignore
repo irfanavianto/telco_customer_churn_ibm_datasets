@@ -1,6 +1,0 @@
-copy writing/
-*.pbix
-*.ows
-*.zip
-draft notebooks/
-metric param.xlsx
