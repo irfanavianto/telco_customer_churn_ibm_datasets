@@ -1,0 +1,81 @@
+Oke, gua bakal jujur dan kritis ya.
+**Pendapat gua soal subjudul lu:**
+
+> *“the journey from data to support business decision”*
+**Kuatnya:**
+* Arahnya bener: nunjukin kalau ini bukan sekadar model, tapi ada konteks bisnis.
+* Cocok buat portofolio DS, karena recruiter suka “end-to-end thinking”.
+**Tapi kelemahannya:**
+* **Terlalu generik.** Kalimat ini bisa dipakai di hampir semua artikel data science.
+* **Kurang kontras** sama judul utama yang provokatif (“Not About Accuracy”).
+* Belum langsung “nyentil” pain point bisnis churn (uang bocor, customer hilang, keputusan salah).
+
+Kalau judul lu udah *provocative*, subjudulnya harus **mengunci arah berpikir pembaca**:
+👉 *“Oh, ini bukan DS biasa. Ini DS yang mikirin keputusan.”*
+---
+
+## Rekomendasi Hook Subtitle (Lebih Tajam)
+
+### 1️⃣ Kalau mau **business-driven & decision-focused**
+Cocok buat nunjukin kedewasaan berpikir DS.
+* **“Turning churn models into decisions that actually matter”**
+* **“How churn prediction should guide action, not just metrics”**
+* **“From predicting churn to deciding who to save”** 🔥
+
+👉 Ini jelas: *prediction → action*.
+---
+
+### 2️⃣ Kalau mau **kontras keras dengan accuracy**
+Ini nyambung langsung ke judul utama.
+* **“Why a 95% accurate model can still lose customers”**
+* **“When high accuracy fails the business”**
+* **“Accuracy doesn’t stop churn — decisions do”** 🔥🔥
+
+Ini kuat banget buat hook LinkedIn / Medium.
+---
+
+### 3️⃣ Kalau mau **cerita journey tapi lebih spesifik**
+Versi upgrade dari ide lu, tapi lebih tajam.
+* **“From raw telco data to retention strategy”**
+* **“From churn labels to retention decisions”**
+* **“From data exploration to customer retention impact”**
+
+Lebih konkret daripada “journey from data”.
+---
+
+### 4️⃣ Kalau mau **recruiter-oriented (portofolio killer)**
+Ini nunjukin lu ngerti peran DS di organisasi.
+* **“How a data scientist should think beyond model performance”**
+* **“What churn prediction looks like when you care about business impact”**
+* **“A practical churn project focused on business outcomes”**
+---
+
+## Rekomendasi Final Gua (Paling Kuat)
+
+Kalau gua boleh milih **1 kombinasi paling solid**:
+**Judul:**
+
+> *Customer Churn Prediction Is Not About Accuracy*
+**Subjudul:**
+
+> **“From predicting churn to making retention decisions”**
+
+Kenapa ini kuat:
+* Singkat, jelas, dan nempel
+* Nyambung langsung ke telco churn
+* Nunjukin mindset senior DS
+* Recruiter langsung ngerti value lu
+
+Kalau lu mau, next step gua bisa bantu:
+* rewrite intro paragraf biar konsisten sama hook ini
+* atau ngerapihin outline supaya “decision-making” keliatan di setiap section, bukan cuma di judul
+
+Tinggal bilang mau fokus ke mana.
+-----------------
+Most churn prediction projects focus on maximizing accuracy. In reality, churn modeling is about deciding who deserves attention first.
+
+Unfortunately, evaluation metrics alone rarely answer the real business question — which customers should we act on, and why?
+
+This project approaches churn prediction from a business-first perspective. Using telco customer data, the objective is not to build the most accurate model, but to translate predictions into practical retention decisions that can be executed by the business.
+
+Rather than optimizing metrics in isolation, this analysis focuses on how churn models support decision-making: identifying high-risk customers, understanding the drivers behind churn, and prioritizing actions that balance impact and cost.
